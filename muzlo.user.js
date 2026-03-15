@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         муЗОН
+// @name         гейпорно
 // @namespace    https://lolz.live/
 // @version      1.0.7
 // @description  MUZON
